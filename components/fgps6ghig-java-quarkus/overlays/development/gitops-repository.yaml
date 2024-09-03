@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fgps6ghig-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/fgps6ghig-java-quarkus-gitops
